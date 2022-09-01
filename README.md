@@ -11,6 +11,9 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 
 <h3>🎯 Desafios Propostos:</h3>
 
+- [X] Aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+- [X] Leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+
 <h3>📷 Galeria</h3>
 
 <h2>🔁 Repetições em Python (for)</h2>
