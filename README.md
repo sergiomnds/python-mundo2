@@ -44,6 +44,10 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
     
 <h3>📷 Galeria</h3>
 
+![codigo-ex44](https://user-images.githubusercontent.com/85349959/188669264-aa7dc881-d4d0-4745-a1e6-8b60b170530f.png) ![terminal-ex45](https://user-images.githubusercontent.com/85349959/188669401-538293d6-7a05-465a-b116-8dddd0a4d603.png)
+![codigo-ex39](https://user-images.githubusercontent.com/85349959/188669666-505a8772-d179-4b55-8490-757125283b30.png)
+![terminal-ex37](https://user-images.githubusercontent.com/85349959/188669960-557dc72f-1efe-4b29-9ba0-3ccaad3c5912.png)
+
 <h2>🔁 Repetições em Python (for)</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
