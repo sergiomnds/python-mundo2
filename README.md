@@ -40,6 +40,7 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
     - à vista no cartão: 5% de desconto
     - em até 2x no cartão: preço formal 
     - 3x ou mais no cartão: 20% de juros
+- [X] Crie um programa que faça o computador jogar Jokenpô com você.
     
 <h3>📷 Galeria</h3>
 
