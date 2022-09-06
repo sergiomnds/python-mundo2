@@ -52,6 +52,10 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 
 <h3>🎯 Desafios Propostos:</h3>
 
+- [X] Mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+- [X] Mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+- [X] Calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+
 <h3>📷 Galeria</h3>
 
 <h2>🔃 Repetições em Python (while)</h2>
