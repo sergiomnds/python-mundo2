@@ -55,7 +55,18 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 - [X] Mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 - [X] Mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 - [X] Calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
-
+- [X] Refaça o DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+- [X] Leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+- [X] Leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+- [X] Leia um número inteiro e diga se ele é ou não um número primo.
+- [X] Leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+- [X] Leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+- [X] Leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+- [X] Leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre:
+    - A média de idade do grupo
+    - Qual é o nome do homem mais velho
+    - Quantas mulheres têm menos de 20 anos
+    
 <h3>📷 Galeria</h3>
 
 <h2>🔃 Repetições em Python (while)</h2>
