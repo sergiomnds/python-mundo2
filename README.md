@@ -69,10 +69,8 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
     
 <h3>📷 Galeria</h3>
 
-![codigo-ex56](https://user-images.githubusercontent.com/85349959/189679462-95163953-37d0-4b37-8276-4a88a2a11de7.png)
-![terminal-ex53](https://user-images.githubusercontent.com/85349959/189679680-bbb3a368-fef9-4620-8f17-6211d6833d12.png)
-![codigo-ex52](https://user-images.githubusercontent.com/85349959/189679843-fd74ffdc-c070-4866-9977-e0ebb27159a2.png)
-![terminal-ex55](https://user-images.githubusercontent.com/85349959/189680071-48b0fb1e-7836-4451-a773-f073d291aef8.png)
+![codigo-ex56](https://user-images.githubusercontent.com/85349959/189679462-95163953-37d0-4b37-8276-4a88a2a11de7.png) ![terminal-ex53](https://user-images.githubusercontent.com/85349959/189679680-bbb3a368-fef9-4620-8f17-6211d6833d12.png)
+![codigo-ex52](https://user-images.githubusercontent.com/85349959/189679843-fd74ffdc-c070-4866-9977-e0ebb27159a2.png) ![terminal-ex55](https://user-images.githubusercontent.com/85349959/189680071-48b0fb1e-7836-4451-a773-f073d291aef8.png)
 
 <h2>🔃 Repetições em Python (while)</h2>
 
