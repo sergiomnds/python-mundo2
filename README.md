@@ -81,12 +81,11 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 - [X] Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores ‘M’ ou ‘F’. Caso esteja errado, peça a digitação novamente até ter um valor correto.
 - [X] O computador vai “pensar” em um número entre 0 e 10. O jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
 - [X] Crie um programa que leia dois valores e mostre um menu na tela:
-    - somar,
-    - multiplicar,
-    - maior,
-    - novos números,
-    - sair do programa.
-Seu programa deverá realizar a operação solicitada em cada caso.
+    - Somar,
+    - Multiplicar,
+    - Maior,
+    - Novos números,
+    - Sair do programa.
 - [X] Faça um programa que leia um número qualquer e mostre o seu fatorial.
 - [X] Refaça o desafio 051, lendo o primeiro termo e a razão de um PA mostrando os 10 primeiros termos da progressão usando While.
 - [X]
