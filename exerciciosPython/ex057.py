@@ -5,5 +5,9 @@
 sexo = str(input('Digite o seu sexo (M ou F): ')).strip().upper()[0]
 while sexo not in 'MF':
     sexo = str(input('Inválido. \nDigite o seu sexo (M ou F): ')).strip().upper()[0]
-print(f'Sexo {sexo} registrado com sucesso!')
+
+if sexo == 'M':
+    print('Sexo masculino registrado com sucesso!')
+else:
+    print('Sexo feminino registrado com sucesso!')
     
