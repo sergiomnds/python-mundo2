@@ -88,7 +88,7 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
     - Sair do programa.
 - [X] Faça um programa que leia um número qualquer e mostre o seu fatorial.
 - [X] Refaça o desafio 051, lendo o primeiro termo e a razão de um PA mostrando os 10 primeiros termos da progressão usando While.
-- [X]
+- [X] Refaça o desafio anterior, pergutando se o usuário deseja ver mais termos e só parando quando ele informa 0.
 - [X]
 - [X]
 - [X]
