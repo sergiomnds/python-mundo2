@@ -1,25 +1,24 @@
 
 #? Crie um programa que leia vários nºs inteiros. No final, mostra a média e qual foi o maior e menor
-#? número valores lidos. O programa deve perguntar se ele quer ou não continuar a digitar os valores.
+#? valor lido. O programa deve perguntar se ele quer ou não continuar a digitar os valores.
 
-numero = int(input('Digite um valor inteiro:'))
-contador = 0
+resposta = "S"
 soma = 0
+contador = 0
 maior = 0
-menor = numero
+menor = 0
 
-resposta = str(input('Deseja continuar? (S/N)')).upper()
-while resposta == 'S':
-    contador += 1
+while resposta in "S":
+    numero = int(input('Digite um valor inteiro:'))
     soma += numero
-    media = soma/contador
-    if numero > maior:
-        maior = numero
-    elif numero < menor:
-        menor = numero
-    resposta = str(input('Deseja continuar? (S/N)')).upper()
-
-print(f'''Contagem de Números: {contador}
-        Média dos valores: {media}
-        Maior valor: {maior}
-        Menor Valor: {menor}''')
+    contador += 1
+    if contador == 1:
+        maior = menor = numero
+    else:
+        if numero > maior:
+            maior = numero
+        if numero < menor:
+            menor = numero
+    resposta = str(input('Deseja continuar? (S/N)')).upper().strip()[0]
+media = soma/contador
+print(f'Você digitou {contador} números e a média foi {media}! \nMaior nº: {maior} \nMenor nº: {menor}')

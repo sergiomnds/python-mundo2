@@ -89,8 +89,8 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 - [X] Faça um programa que leia um número qualquer e mostre o seu fatorial.
 - [X] Refaça o desafio 051, lendo o primeiro termo e a razão de um PA mostrando os 10 primeiros termos da progressão usando While.
 - [X] Refaça o desafio anterior, pergutando se o usuário deseja ver mais termos e só parando quando ele informa 0.
-- [X]
-- [X]
-- [X]
+- [X] Leia um nº 'n' e mostre na tela os n primeiros elementos de uma sequencia de Fibonacci.
+- [X] Leia vários números inteiros. O programa só vai parar quando o usuário digitar 999. No final, mostrar quantos números foram digitados e qual a soma entre eles.
+- [X] Leia vários nºs inteiros. No final, mostra a média e qual foi o maior e o menor valor lido. O programa deve perguntar se ele quer ou não continuar a digitar os valores.
 
 <h3>📷 Galeria</h3>
