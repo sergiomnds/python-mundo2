@@ -93,8 +93,8 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 - [X] Leia vários números inteiros. O programa só vai parar quando o usuário digitar 999. No final, mostrar quantos números foram digitados e qual a soma entre eles.
 - [X] Leia vários nºs inteiros. No final, mostra a média e qual foi o maior e o menor valor lido. O programa deve perguntar se ele quer ou não continuar a digitar os valores.
 - [X] Leia vários números inteiros. O programa só vai parar quando o usuário digitar 999, que é a condição de parada. No final, mostrar quantos números foram digitados e qual a soma entre eles.
-- [ ] Programa que mostra a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. Só será interrompido quando o número solicitado for negativo.
-- [ ] Programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+- [X] Programa que mostra a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. Só será interrompido quando o número solicitado for negativo.
+- [X] Programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
 - [ ] Programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se deseja ou não continuar. No final, mostre:
     - quantas pessoas tem mais de 18 anos;
     - quantos homens foram cadastrados;
