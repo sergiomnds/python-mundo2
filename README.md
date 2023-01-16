@@ -95,11 +95,11 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 - [X] Leia vários números inteiros. O programa só vai parar quando o usuário digitar 999, que é a condição de parada. No final, mostrar quantos números foram digitados e qual a soma entre eles.
 - [X] Programa que mostra a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. Só será interrompido quando o número solicitado for negativo.
 - [X] Programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
-- [ ] Programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se deseja ou não continuar. No final, mostre:
+- [X] Programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se deseja ou não continuar. No final, mostre:
     - quantas pessoas tem mais de 18 anos;
     - quantos homens foram cadastrados;
     - quantas mulheres tem menos de 20 anos.
-- [ ] Programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
+- [X] Programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
     - Qual é o total gasto na compra.
     - Quantos produtos custam mais de R$1000,00
     - Qual é o nome do produto mais barato.
