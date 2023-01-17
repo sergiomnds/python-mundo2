@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)]()
+[![Status](https://img.shields.io/badge/Status-Concluído-blue)]()
 
 <h1 align="center">🐍 Curso de Python 3 - Mundo 2</h1>
 Repositório para guardar os códigos feitos durante o Curso de Python 3 - Mundo 2 (40 Horas) do Curso em Vídeo.
@@ -106,3 +106,8 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 - [X] Simule o funcionamento de um caixa eletrônico. No ínicio, pergunte ao usuário qual será o valor a ser sacado (nº inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
 <h3>📷 Galeria</h3>
+
+![codigo-ex61](https://user-images.githubusercontent.com/85349959/212935220-14fda1c8-6408-4a82-9b29-302d5be583fa.png)
+![codigo-ex68](https://user-images.githubusercontent.com/85349959/212935701-44732b9c-ec7c-467a-a7ea-a7a00242d2fa.png)
+![terminal-ex66](https://user-images.githubusercontent.com/85349959/212936038-38ecce6a-cf8c-4b37-bcf7-6bbaffb2fbdc.png)
+![terminal-ex71](https://user-images.githubusercontent.com/85349959/212936483-5a15d612-a9f0-4167-9618-579578225a80.png)
