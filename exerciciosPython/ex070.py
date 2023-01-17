@@ -6,7 +6,7 @@
 #? C) qual é o nome do produto mais barato.
 
 totalCompra = produtosCaros = contador = 0
-nomeBarato = ''
+nomeBarato = ' '
 
 print('Vamos registrar Produtos!')
 while True:
@@ -31,5 +31,5 @@ while True:
 
 print('Boas compras!')
 print(f'''O total da compra foi R${totalCompra}
-    \nForam {produtosCaros} por mais de R$1000,00
-    \nO produto mais barato se chama {nomeBarato} custando {produtoBarato}''')
+Foram {produtosCaros} por mais de R$1000,00
+O produto mais barato se chama {nomeBarato} custando {produtoBarato}''')

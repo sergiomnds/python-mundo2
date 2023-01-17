@@ -103,6 +103,6 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
     - Qual é o total gasto na compra.
     - Quantos produtos custam mais de R$1000,00
     - Qual é o nome do produto mais barato.
-- [ ] Simule o funcionamento de um caixa eletrônico. No ínicio, pergunte ao usuário qual será o valor a ser sacado (nº inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
+- [X] Simule o funcionamento de um caixa eletrônico. No ínicio, pergunte ao usuário qual será o valor a ser sacado (nº inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
 <h3>📷 Galeria</h3>
